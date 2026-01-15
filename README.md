@@ -30,7 +30,7 @@ pnpm install
 ### Usage
 
 ```bash
-bun run index.tsx
+bun run src/index.tsx
 ```
 
 Type your message and press Enter to chat with Claude!
